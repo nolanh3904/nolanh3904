@@ -9,6 +9,9 @@ An Apple Watch application designed to automatically start recovery timers based
 <a href="https://github.com/nolanh3904/REPO_NAME">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolanh3904&repo=ncaab-momentum-metrics&theme=github_dark" />
 </a>
+<a href="https://github.com/nolanh3904/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolanh3904&repo=checkers-project&theme=github_dark" />
+</a>
 
 ## 📫 How to reach me:
 -  **nolanh9@iastate.edu**
