@@ -6,10 +6,10 @@ An Apple Watch application designed to automatically start recovery timers based
 
 ## Featured Projects
 
-<a href="https://github.com/nolanh3904/REPO_NAME">
+<a href="https://github.com/nolanh3904/ncaab-momentum-metric">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolanh3904&repo=ncaab-momentum-metrics&theme=github_dark" />
 </a>
-<a href="https://github.com/nolanh3904/REPO_NAME">
+<a href="https://github.com/nolanh3904/checkers-project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolanh3904&repo=checkers-project&theme=github_dark" />
 </a>
 
